@@ -1,3 +1,4 @@
+//removing the duplicated from a string
 import java.util.*;
 public class erta {
     public static void main(String[] args) {
